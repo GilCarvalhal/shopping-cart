@@ -1,3 +1,4 @@
+# Carrinho de compras com RectJS
 ### Simulação de um carrinho de compras simples e dinâmico, o projeto foi desenvolvido com ReactJS. Permite que o usuário liste produtos na tela, busque produtos cosumindo a API do mercado livre, adicione produtos e remova produtos do carrinho.
 
 <hr/>
