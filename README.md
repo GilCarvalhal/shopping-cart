@@ -1,4 +1,4 @@
-### Simulação de um carrinho de compras simples e dinâmico. Projeto desenvolvido com ReactJS.
+### Simulação de um carrinho de compras simples e dinâmico, o projeto foi desenvolvido com ReactJS. Permite que o usuário liste produtos na tela, busque produtos cosumindo a API do mercado livre, adicione produtos e remova produtos do carrinho.
 
 <hr/>
 # Getting Started with Create React App
